@@ -11,7 +11,20 @@ A simple Tic Tac Toe game built with HTML, CSS, and JavaScript.
 ## ✨ Features
 - ❌ Player vs Player
 - 🤖 Player vs AI (Easy, Medium, Hard)
-- 🌙 Dark/Light Mode
-- 📊 Score Board
-- 🔄 Restart & Reset
+- 🌙 Dark / Light Mode
+- 📊 Live Score Board
+- 🔄 Restart Match
+- 🗑️ Reset Scores
 - 📱 Responsive Design
+
+## 📂 Project Files
+- 📄 index.html
+- 🎮 game.html
+- 🎨 style.css
+- ⚡ script.js
+- 🧠 game.js
+
+## 🚀 Technologies
+HTML5 • CSS3 • JavaScript (ES6)
+
+⭐ A beginner-friendly project with a clean UI and AI-based gameplay.
