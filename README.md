@@ -19,4 +19,4 @@ A simple Tic Tac Toe game built with HTML, CSS, and JavaScript.
 - 📱 Responsive Design
 
 
-### ⭐ A beginner-friendly project with a clean UI and AI-based gameplay.
+⭐ A beginner-friendly project with a clean UI and AI-based gameplay.
